@@ -1,5 +1,15 @@
 # PDDL4J library
 
+##PS 
+This is a fork of the original pddl4j project. The main purpose for creating this repository was to add some pddl tests so that my internshiip supervisor can run the planner on my created domains.
+
+##to run the planner on MY Domains
+- The domains are created in the file /tests
+
+- Example : running FF fast forward planner on news-app domain
+
+'java -cp build/libs/pddl4j-4.0.0.jar fr.uga.pddl4j.planners.statespace.FF tests/news_app/domain.pddl tests/news_app/p01.pddl'
+
 ## 1. Contact
 
 - Damien Pellier (damien.pellier@imag.fr)
