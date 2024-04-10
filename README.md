@@ -2,7 +2,7 @@
 
 ## PS
 
-This is a fork of the original pddl4j project. The main purpose for creating this repository was to add some pddl tests so that my internshiip supervisor can run the planner on my created domains.
+This is a fork of the original pddl4j project. The main purpose for creating this repository was to add some pddl tests so that my internship supervisor can run the planner on my created domains.
 
 ## To run the planner on MY Domains
 
